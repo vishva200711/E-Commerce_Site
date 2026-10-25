@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 👗 Ladies World
 
 A full-stack e-commerce store for dresses & sarees — built with **React + Vite** on the frontend and **Node.js + Express** on the backend, with **real-time order updates** via Socket.IO.
@@ -117,3 +118,6 @@ npm run dev
 ## 📝 License
 
 Private project — all rights reserved.
+=======
+# E-Commerce_Site
+>>>>>>> 56a00939195c03fc25dbf870e5e94d707d249a44
